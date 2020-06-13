@@ -13,7 +13,7 @@ ENV LANG en_US.utf8
 WORKDIR /usr/src/app
 # docker build -t . djangoenv:1.0
 # docker run -it -v /Users/tk/Desktop/BrainFuckIDE:/usr/src/app -p 127.0.0.1:8000:8000 djangoenv:1.0 /bin/zsh
-# docker exec -it focused_galileo /bin/zsh
+# docker exec -it __ /bin/zsh
 # /bin/zsh
 # django-admin startproject myapp .
 # django-admin startapp BrainFuckIDE
